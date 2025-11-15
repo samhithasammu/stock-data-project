@@ -1,0 +1,201 @@
+trade_date,ticker,open_price,close_price,volume,sector,validated,currency,exchange,notes
+2025-09-01,AAPL,192.47,191.9,21646536,Technology,,,NASDAQ,gap up
+2025-09-01,MSFT,456.51,459.76,,Technology,,,,
+2025-09-01,,151.27,150.45,20405836,Consumer Discretionary,,usd,NASDAQ,
+2025-09-01,,139.61,141.17,12795579,,True,,NYSE,gap down
+2025-09-01,,1190.21,1198.56,16389274,Semiconductors,,USD,NYSE,
+2025-09-01,TSLA,245.81,244.27,13350388,Automotive,,usd,NASDAQ,
+2025-09-01,META,493.91,491.42,12963843,Communication Services,False,USD,NASDAQ,gap down
+2025-09-01,NFLX,603.91,599.53,,Communication Services,,usd,NYSE,EoD
+2025-09-02,AAPL,,188.92,10513474,Technology,,,NYSE,pre-earnings
+2025-09-02,MSFT,450.93,,17277392,Technology,,usd,NYSE,EoD
+2025-09-02,AMZN,,,24690780,Consumer Discretionary,True,,NYSE,
+2025-09-02,,,142.16,10718842,Communication Services,True,,NYSE,
+2025-09-02,NVDA,1180.14,1176.78,14094696,Semiconductors,False,,,rev miss
+2025-09-02,TSLA,,242.69,,Automotive,False,USD,,
+2025-09-02,META,493.87,498.86,11887391,Communication Services,True,,NASDAQ,
+2025-09-02,NFLX,,592.66,21608458,Communication Services,,,,EoD
+2025-09-03,AAPL,,191.24,14508076,Technology,,,NASDAQ,gap down
+2025-09-03,MSFT,461.15,461.28,19595278,Technology,,,,pre-earnings
+2025-09-03,AMZN,152.58,152.26,15180231,Consumer Discretionary,True,,NYSE,gap up
+2025-09-03,GOOGL,,142.15,26850869,Communication Services,False,usd,NASDAQ,
+2025-09-03,NVDA,,1185.85,20497116,Semiconductors,,usd,NASDAQ,EoD
+2025-09-03,TSLA,246.4,245.27,,Automotive,,,,gap up
+2025-09-03,META,498.06,503.78,14129142,Communication Services,,,NYSE,
+2025-09-03,NFLX,595.84,,25825512,Communication Services,False,,NYSE,
+2025-09-04,AAPL,191.03,189.9,13637583,,,,NASDAQ,pre-earnings
+2025-09-04,MSFT,459.39,459.05,,Technology,False,USD,,gap up
+2025-09-04,,153.32,,,,False,,NASDAQ,rev miss
+2025-09-04,GOOGL,,139.76,21481080,Communication Services,False,USD,,
+2025-09-04,NVDA,1170.02,1168.81,13879183,Semiconductors,True,,NYSE,gap up
+2025-09-04,,242.88,,18100553,Automotive,True,,NYSE,gap down
+2025-09-04,META,497.77,501.24,,Communication Services,True,USD,,
+2025-09-04,NFLX,598.32,598.0,12610631,Communication Services,True,USD,,gap up
+2025-09-05,,191.78,,16723175,Technology,,,NYSE,
+2025-09-05,MSFT,,,8352061,Technology,False,,NYSE,EoD
+2025-09-05,AMZN,151.52,,14869174,Consumer Discretionary,False,,,pre-earnings
+2025-09-05,GOOGL,140.85,139.93,14453664,Communication Services,True,,NASDAQ,
+2025-09-05,NVDA,1182.79,1194.65,26249454,Semiconductors,,usd,NASDAQ,gap down
+2025-09-05,TSLA,,247.7,18533645,Automotive,True,,NYSE,gap down
+2025-09-05,META,501.15,499.63,13419204,Communication Services,True,,NASDAQ,gap down
+2025-09-05,,,615.14,12069464,Communication Services,False,,NYSE,rev miss
+2025-09-08,,,191.86,,Technology,,,,EoD
+2025-09-08,MSFT,457.52,459.51,,,False,USD,NYSE,
+2025-09-08,AMZN,151.69,153.27,23437878,Consumer Discretionary,,,,
+2025-09-08,,142.7,142.99,14501755,Communication Services,False,USD,NASDAQ,rev miss
+2025-09-08,NVDA,1176.38,1181.8,7701521,Semiconductors,True,USD,NYSE,EoD
+2025-09-08,,246.91,,14507099,Automotive,False,,NASDAQ,
+2025-09-08,META,492.97,492.95,9875627,Communication Services,,,NYSE,
+2025-09-08,NFLX,598.68,597.17,10608256,Communication Services,,,NASDAQ,
+2025-09-09,,,190.98,15815047,Technology,True,,NYSE,
+2025-09-09,,456.55,451.79,13875045,Technology,,USD,NASDAQ,gap down
+2025-09-09,AMZN,152.16,149.57,12146366,Consumer Discretionary,,,NYSE,gap up
+2025-09-09,GOOGL,137.92,136.55,17649607,Communication Services,,,NASDAQ,EoD
+2025-09-09,NVDA,1170.34,1176.41,26113271,Semiconductors,False,usd,NASDAQ,rev miss
+2025-09-09,TSLA,248.78,247.89,22284450,Automotive,False,,,rev miss
+2025-09-09,,501.25,,15043130,Communication Services,True,,,gap up
+2025-09-09,NFLX,594.38,593.09,12996923,Communication Services,True,,,
+2025-09-10,AAPL,191.32,192.19,,Technology,,,NYSE,
+2025-09-10,MSFT,455.9,453.3,15786843,Technology,True,,NYSE,EoD
+2025-09-10,AMZN,152.64,153.54,16517181,Consumer Discretionary,,USD,NYSE,gap up
+2025-09-10,,139.34,138.02,14327902,Communication Services,True,,NYSE,EoD
+2025-09-10,NVDA,1163.54,1163.42,,Semiconductors,,,,rev miss
+2025-09-10,TSLA,246.61,246.59,,Automotive,,,NYSE,pre-earnings
+2025-09-10,,,497.72,21308792,Communication Services,,,NYSE,
+2025-09-10,NFLX,608.08,609.44,,Communication Services,,,NYSE,
+2025-09-11,AAPL,191.03,190.36,,Technology,False,,NASDAQ,gap up
+2025-09-11,MSFT,459.28,457.2,9130603,Technology,False,,,
+2025-09-11,,154.25,154.45,,Consumer Discretionary,True,,NYSE,
+2025-09-11,GOOGL,141.46,141.49,16925082,Communication Services,True,,NYSE,gap up
+2025-09-11,NVDA,1147.86,1145.22,18494202,Semiconductors,,,NASDAQ,
+2025-09-11,,245.57,244.12,13802532,Automotive,,,,gap down
+2025-09-11,META,500.24,,14020760,,True,,NASDAQ,gap down
+2025-09-11,NFLX,599.71,603.93,28234156,Communication Services,True,,NASDAQ,EoD
+2025-09-12,AAPL,,193.87,17695286,Technology,True,usd,NYSE,gap up
+2025-09-12,MSFT,458.13,459.11,,,True,,NYSE,
+2025-09-12,,153.37,154.46,15690960,Consumer Discretionary,,USD,NASDAQ,pre-earnings
+2025-09-12,GOOGL,140.56,,21553254,,True,,NYSE,EoD
+2025-09-12,NVDA,1188.48,1185.35,8148842,Semiconductors,True,USD,,rev miss
+2025-09-12,,250.77,253.02,18937073,Automotive,,,NASDAQ,
+2025-09-12,META,493.87,499.66,17390597,Communication Services,,,NASDAQ,
+2025-09-12,NFLX,,601.9,16385756,Communication Services,,,NASDAQ,rev miss
+2025-09-15,AAPL,189.63,189.85,18057940,Technology,False,,NASDAQ,
+2025-09-15,,455.65,459.03,24421544,Technology,True,USD,NASDAQ,gap down
+2025-09-15,,154.34,153.27,,Consumer Discretionary,,USD,,EoD
+2025-09-15,,141.02,141.53,,,,,NYSE,
+2025-09-15,NVDA,,,,Semiconductors,,,NASDAQ,EoD
+2025-09-15,TSLA,246.87,247.52,16971630,Automotive,True,USD,NASDAQ,EoD
+2025-09-15,META,495.26,491.22,19964963,Communication Services,False,,NASDAQ,rev miss
+2025-09-15,,602.39,594.98,19970497,,False,usd,NYSE,gap up
+2025-09-16,AAPL,189.26,,11852966,Technology,True,,NASDAQ,
+2025-09-16,MSFT,451.59,454.19,20995069,Technology,False,,NYSE,gap up
+2025-09-16,AMZN,149.32,,20326822,Consumer Discretionary,True,usd,NYSE,gap up
+2025-09-16,GOOGL,141.5,139.55,,Communication Services,True,,NASDAQ,gap down
+2025-09-16,NVDA,1165.29,1172.28,15811224,Semiconductors,False,,NYSE,
+2025-09-16,TSLA,246.93,246.15,10039069,Automotive,,,NYSE,pre-earnings
+2025-09-16,,493.58,487.61,13618139,Communication Services,,,NYSE,pre-earnings
+2025-09-16,NFLX,601.33,601.15,12972173,Communication Services,False,,NYSE,
+2025-09-17,AAPL,193.25,191.35,18228217,Technology,,,NYSE,EoD
+2025-09-17,MSFT,460.84,,12013389,Technology,,,NASDAQ,EoD
+2025-09-17,AMZN,151.75,,17792887,Consumer Discretionary,True,,NYSE,gap down
+2025-09-17,GOOGL,142.62,143.88,15044928,Communication Services,,,NYSE,gap down
+2025-09-17,NVDA,1157.37,1167.72,20225737,Semiconductors,,USD,NASDAQ,pre-earnings
+2025-09-17,,245.82,,14626814,Automotive,,,NASDAQ,
+2025-09-17,META,496.12,,17607005,Communication Services,True,usd,NYSE,
+2025-09-17,NFLX,,589.13,21219337,Communication Services,False,,NASDAQ,
+2025-09-18,AAPL,192.29,,10264251,Technology,,usd,NASDAQ,gap up
+2025-09-18,MSFT,469.77,469.2,,,,,NASDAQ,
+2025-09-18,,151.25,,15939208,,False,,NASDAQ,
+2025-09-18,GOOGL,,143.09,13643371,Communication Services,,,NASDAQ,
+2025-09-18,,,1182.52,18689884,Semiconductors,True,,NASDAQ,rev miss
+2025-09-18,TSLA,248.48,,16926640,Automotive,,,,gap up
+2025-09-18,META,489.98,492.49,14081860,,,USD,NASDAQ,gap down
+2025-09-18,NFLX,601.28,603.35,,Communication Services,,usd,NYSE,pre-earnings
+2025-09-19,AAPL,194.46,195.34,14420971,,False,,NASDAQ,rev miss
+2025-09-19,MSFT,463.19,465.26,16666909,Technology,True,USD,,
+2025-09-19,AMZN,147.51,146.91,,Consumer Discretionary,,,NASDAQ,rev miss
+2025-09-19,GOOGL,142.12,140.39,16319618,,True,,NYSE,rev miss
+2025-09-19,,1187.91,,14070878,Semiconductors,,usd,NASDAQ,EoD
+2025-09-19,TSLA,249.1,249.97,18295999,Automotive,False,,NYSE,
+2025-09-19,META,492.44,,,Communication Services,True,,NYSE,
+2025-09-19,NFLX,602.35,598.24,,Communication Services,True,,NYSE,gap up
+2025-09-22,AAPL,191.22,190.35,13110656,Technology,,usd,NYSE,gap down
+2025-09-22,MSFT,455.39,456.08,8276829,,True,,NASDAQ,gap down
+2025-09-22,,153.27,153.77,9759391,Consumer Discretionary,False,,NASDAQ,gap up
+2025-09-22,GOOGL,140.47,141.13,12664515,Communication Services,True,,NYSE,pre-earnings
+2025-09-22,NVDA,1161.16,1161.84,14654139,Semiconductors,False,,NASDAQ,
+2025-09-22,TSLA,244.43,249.62,23818197,Automotive,True,,NASDAQ,
+2025-09-22,META,494.55,492.45,18296496,Communication Services,False,,NYSE,rev miss
+2025-09-22,NFLX,607.78,610.89,20957288,Communication Services,False,,NASDAQ,pre-earnings
+2025-09-23,AAPL,190.72,192.45,21215631,Technology,False,,NASDAQ,rev miss
+2025-09-23,MSFT,458.03,457.23,12499333,,False,,NYSE,pre-earnings
+2025-09-23,AMZN,,,17727281,Consumer Discretionary,,usd,NYSE,
+2025-09-23,GOOGL,140.31,141.13,,Communication Services,True,USD,,
+2025-09-23,,1163.04,1171.71,,Semiconductors,False,usd,NYSE,gap up
+2025-09-23,TSLA,246.55,,13092898,Automotive,,,NYSE,EoD
+2025-09-23,META,497.11,495.49,,Communication Services,True,,NYSE,
+2025-09-23,NFLX,594.55,598.47,10091800,Communication Services,False,,NASDAQ,pre-earnings
+2025-09-24,AAPL,191.89,193.26,,Technology,,,NASDAQ,gap down
+2025-09-24,,,448.7,17854112,,False,USD,NYSE,rev miss
+2025-09-24,AMZN,152.74,151.31,10422864,Consumer Discretionary,,,,gap up
+2025-09-24,GOOGL,,138.27,23671036,,,,NASDAQ,pre-earnings
+2025-09-24,NVDA,1174.66,,19087677,Semiconductors,True,,NASDAQ,rev miss
+2025-09-24,TSLA,241.65,240.84,,,,,,pre-earnings
+2025-09-24,META,498.03,498.36,15046697,Communication Services,,USD,NYSE,gap down
+2025-09-24,NFLX,,609.46,19565436,,False,,,
+2025-09-25,AAPL,190.32,191.0,15829296,Technology,True,,NASDAQ,gap down
+2025-09-25,MSFT,460.39,465.33,,Technology,False,,NYSE,
+2025-09-25,AMZN,152.42,152.68,,,True,USD,NYSE,
+2025-09-25,GOOGL,140.59,140.39,15032508,Communication Services,,,NASDAQ,pre-earnings
+2025-09-25,NVDA,,,24854400,Semiconductors,,usd,NYSE,
+2025-09-25,,,244.64,13844080,Automotive,,,NYSE,rev miss
+2025-09-25,META,492.18,,17495648,Communication Services,True,,NASDAQ,pre-earnings
+2025-09-25,NFLX,601.63,593.82,19759188,Communication Services,,usd,NASDAQ,
+2025-09-26,,189.58,188.31,,Technology,False,USD,NASDAQ,gap down
+2025-09-26,MSFT,459.44,462.15,16868911,Technology,,,NYSE,EoD
+2025-09-26,AMZN,152.05,,20302680,,,,NYSE,pre-earnings
+2025-09-26,,141.07,140.02,,Communication Services,True,,,gap up
+2025-09-26,NVDA,1186.61,1196.44,16979881,Semiconductors,True,,NASDAQ,EoD
+2025-09-26,TSLA,244.58,,16454864,Automotive,False,,NASDAQ,gap up
+2025-09-26,META,498.69,501.48,,Communication Services,False,,NASDAQ,
+2025-09-26,NFLX,,597.42,10203960,Communication Services,False,,NASDAQ,pre-earnings
+2025-09-29,AAPL,192.9,191.77,13649802,Technology,,,NASDAQ,gap up
+2025-09-29,,458.11,458.13,9925289,Technology,,,,rev miss
+2025-09-29,AMZN,152.6,152.63,19411228,Consumer Discretionary,,,NASDAQ,rev miss
+2025-09-29,GOOGL,140.04,140.24,20032515,Communication Services,,,NYSE,gap down
+2025-09-29,NVDA,1148.04,1154.16,9917099,Semiconductors,True,usd,NASDAQ,
+2025-09-29,TSLA,,243.76,24687847,Automotive,True,,NASDAQ,
+2025-09-29,META,492.21,491.89,15418173,Communication Services,,usd,NASDAQ,gap down
+2025-09-29,NFLX,606.48,602.9,12706336,Communication Services,False,,NASDAQ,gap down
+2025-09-30,AAPL,191.65,,13133292,Technology,False,,NYSE,pre-earnings
+2025-09-30,MSFT,462.2,457.71,16430608,Technology,,,NYSE,
+2025-09-30,AMZN,152.25,151.45,16867818,Consumer Discretionary,,,NYSE,EoD
+2025-09-30,GOOGL,140.75,142.17,9533871,,False,,,pre-earnings
+2025-09-30,NVDA,1185.83,1182.04,15924683,Semiconductors,True,,NASDAQ,rev miss
+2025-09-30,TSLA,240.22,237.15,12315540,,,,NASDAQ,EoD
+2025-09-30,META,,496.95,12120961,Communication Services,,USD,NASDAQ,gap up
+2025-09-30,NFLX,,,15315890,Communication Services,,usd,,pre-earnings
+2025-10-01,,,194.61,,Technology,,USD,,
+2025-10-01,MSFT,461.41,,18088697,Technology,False,,NASDAQ,
+2025-10-01,,152.28,151.35,11996665,Consumer Discretionary,False,,NASDAQ,pre-earnings
+2025-10-01,GOOGL,141.2,142.05,21916778,Communication Services,True,USD,NYSE,
+2025-10-01,NVDA,1175.26,1176.72,,Semiconductors,False,USD,NYSE,
+2025-10-01,TSLA,242.74,244.34,21182912,Automotive,True,,,gap down
+2025-10-01,META,500.05,496.37,18594788,Communication Services,True,usd,NYSE,
+2025-10-01,NFLX,604.21,,14276003,,False,,NYSE,
+2025-10-02,AAPL,189.67,,16242276,Technology,,,NASDAQ,
+2025-10-02,MSFT,456.77,456.91,,Technology,True,,NASDAQ,
+2025-10-02,,154.17,154.29,17328093,Consumer Discretionary,True,,NASDAQ,
+2025-10-02,GOOGL,142.74,143.26,16906969,Communication Services,,,NYSE,
+2025-10-02,NVDA,,1176.98,,Semiconductors,False,usd,NYSE,EoD
+2025-10-02,TSLA,244.33,247.89,21226923,Automotive,,,NYSE,gap up
+2025-10-02,,,488.27,18958682,Communication Services,False,,NASDAQ,rev miss
+2025-10-02,,594.85,596.41,,Communication Services,True,,NASDAQ,gap down
+2025-10-03,AAPL,191.15,191.14,17645740,,,,,
+2025-10-03,MSFT,456.55,454.32,,Technology,,,NYSE,
+2025-10-03,AMZN,151.24,150.67,8042702,Consumer Discretionary,True,,NYSE,rev miss
+2025-10-03,GOOGL,,142.58,13081100,Communication Services,False,USD,NASDAQ,gap down
+2025-10-03,NVDA,,1189.83,16429220,Semiconductors,,,,
+2025-10-03,,,247.66,,Automotive,,,NYSE,pre-earnings
+2025-10-03,META,499.14,500.78,,Communication Services,False,,NASDAQ,
+2025-10-03,NFLX,608.54,606.87,,,True,,,gap up

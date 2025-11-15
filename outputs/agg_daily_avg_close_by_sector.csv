@@ -1,0 +1,103 @@
+trade_date,sector,avg_close,n
+2025-09-01,Automotive,244.27,1
+2025-09-01,Communication Services,545.475,2
+2025-09-01,Consumer Discretionary,150.45,1
+2025-09-01,Semiconductors,1198.56,1
+2025-09-01,Technology,325.83,2
+2025-09-02,Automotive,242.69,1
+2025-09-02,Communication Services,411.22666666666663,3
+2025-09-02,Semiconductors,1176.78,1
+2025-09-02,Technology,188.92,1
+2025-09-03,Automotive,245.27,1
+2025-09-03,Communication Services,322.965,2
+2025-09-03,Consumer Discretionary,152.26,1
+2025-09-03,Semiconductors,1185.85,1
+2025-09-03,Technology,326.26,2
+2025-09-04,Communication Services,413.0,3
+2025-09-04,Semiconductors,1168.81,1
+2025-09-04,Technology,459.05,1
+2025-09-05,Automotive,247.7,1
+2025-09-05,Communication Services,418.23333333333335,3
+2025-09-05,Semiconductors,1194.65,1
+2025-09-08,Communication Services,411.03666666666663,3
+2025-09-08,Consumer Discretionary,153.27,1
+2025-09-08,Semiconductors,1181.8,1
+2025-09-08,Technology,191.86,1
+2025-09-09,Automotive,247.89,1
+2025-09-09,Communication Services,364.82000000000005,2
+2025-09-09,Consumer Discretionary,149.57,1
+2025-09-09,Semiconductors,1176.41,1
+2025-09-09,Technology,321.385,2
+2025-09-10,Automotive,246.59,1
+2025-09-10,Communication Services,415.06,3
+2025-09-10,Consumer Discretionary,153.54,1
+2025-09-10,Semiconductors,1163.42,1
+2025-09-10,Technology,322.745,2
+2025-09-11,Automotive,244.12,1
+2025-09-11,Communication Services,372.71,2
+2025-09-11,Consumer Discretionary,154.45,1
+2025-09-11,Semiconductors,1145.22,1
+2025-09-11,Technology,323.78,2
+2025-09-12,Automotive,253.02,1
+2025-09-12,Communication Services,550.78,2
+2025-09-12,Consumer Discretionary,154.46,1
+2025-09-12,Semiconductors,1185.35,1
+2025-09-12,Technology,193.87,1
+2025-09-15,Automotive,247.52,1
+2025-09-15,Communication Services,491.22,1
+2025-09-15,Consumer Discretionary,153.27,1
+2025-09-15,Technology,324.44,2
+2025-09-16,Automotive,246.15,1
+2025-09-16,Communication Services,409.43666666666667,3
+2025-09-16,Semiconductors,1172.28,1
+2025-09-16,Technology,454.19,1
+2025-09-17,Communication Services,366.505,2
+2025-09-17,Semiconductors,1167.72,1
+2025-09-17,Technology,191.35,1
+2025-09-18,Communication Services,373.22,2
+2025-09-18,Semiconductors,1182.52,1
+2025-09-19,Automotive,249.97,1
+2025-09-19,Communication Services,598.24,1
+2025-09-19,Consumer Discretionary,146.91,1
+2025-09-19,Technology,465.26,1
+2025-09-22,Automotive,249.62,1
+2025-09-22,Communication Services,414.8233333333333,3
+2025-09-22,Consumer Discretionary,153.77,1
+2025-09-22,Semiconductors,1161.84,1
+2025-09-22,Technology,190.35,1
+2025-09-23,Communication Services,411.6966666666667,3
+2025-09-23,Semiconductors,1171.71,1
+2025-09-23,Technology,192.45,1
+2025-09-24,Communication Services,498.36,1
+2025-09-24,Consumer Discretionary,151.31,1
+2025-09-24,Technology,193.26,1
+2025-09-25,Automotive,244.64,1
+2025-09-25,Communication Services,367.105,2
+2025-09-25,Technology,328.16499999999996,2
+2025-09-26,Communication Services,412.97333333333336,3
+2025-09-26,Semiconductors,1196.44,1
+2025-09-26,Technology,325.23,2
+2025-09-29,Automotive,243.76,1
+2025-09-29,Communication Services,411.6766666666667,3
+2025-09-29,Consumer Discretionary,152.63,1
+2025-09-29,Semiconductors,1154.16,1
+2025-09-29,Technology,324.95,2
+2025-09-30,Communication Services,496.95,1
+2025-09-30,Consumer Discretionary,151.45,1
+2025-09-30,Semiconductors,1182.04,1
+2025-09-30,Technology,457.71,1
+2025-10-01,Automotive,244.34,1
+2025-10-01,Communication Services,319.21000000000004,2
+2025-10-01,Consumer Discretionary,151.35,1
+2025-10-01,Semiconductors,1176.72,1
+2025-10-01,Technology,194.61,1
+2025-10-02,Automotive,247.89,1
+2025-10-02,Communication Services,409.31333333333333,3
+2025-10-02,Consumer Discretionary,154.29,1
+2025-10-02,Semiconductors,1176.98,1
+2025-10-02,Technology,456.91,1
+2025-10-03,Automotive,247.66,1
+2025-10-03,Communication Services,321.68,2
+2025-10-03,Consumer Discretionary,150.67,1
+2025-10-03,Semiconductors,1189.83,1
+2025-10-03,Technology,454.32,1
